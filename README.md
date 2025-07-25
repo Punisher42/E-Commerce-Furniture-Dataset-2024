@@ -71,8 +71,8 @@ To predict the number of items sold (sold) based on product attributes such as:
 
 | Model              | MSE (↓)     | R² Score (↑) |
 |-------------------|-------------|--------------|
-| Linear Regression | e.g., 103 | e.g., 0.51 |
-| Random Forest     | e.g., 64  | e.g., 0.73 |
+| Linear Regression | 13557.91 | -1.47 |
+| Random Forest     | 17350.74  | -2.16 |
 
 > 🔍 *Note:* Random Forest gave better performance on unseen test data.
 
