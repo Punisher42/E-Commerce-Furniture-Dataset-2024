@@ -77,10 +77,3 @@ To predict the number of items sold (sold) based on product attributes such as:
 > 🔍 *Note:* Random Forest gave better performance on unseen test data.
 
 ---
-
-## 🚀 How to Run
-
-1. *Clone the repository*:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
